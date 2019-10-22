@@ -1,14 +1,8 @@
 <?php
-/*
-  PHP contact form script
-  Version: 1.1
-  Copyrights BootstrapMade.com
-*/
-
 /***************** Configuration *****************/
 
   // Replace with your real receiving email address
-  $contact_email_to = "contact@example.com";
+  $contact_email_to = "steve@villari.io";
 
   // Title prefixes
   $subject_title = "Contat Form Message:";

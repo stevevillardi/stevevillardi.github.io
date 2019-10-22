@@ -28,6 +28,12 @@ a {
   transition: all 0.5s ease-in-out;
 }
 
+.links {
+  color: #1e1e1e;
+  transition: all 0.5s ease-in-out;
+  font-weight: bold;
+}
+
 a:hover {
   color: #0078ff;
   text-decoration: none;
